@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+/* adding bootstrap
+*/
+@import'~bootstrap/dist/css/bootstrap.min.css';
+body
+{
+  margin: 0;
+}
